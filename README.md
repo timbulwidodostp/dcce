@@ -1,6 +1,8 @@
 # dcce
 Dynamic Common Correlated Effects Estimation Use dcce With (In) R Software
 
+https://www.youtube.com/watch?v=p39elwewqh0
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
